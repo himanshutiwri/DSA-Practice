@@ -9,17 +9,6 @@ each designed to strengthen logic-building and problem-solving skills.
 
 ---
 
-## 📘 Topics Covered
-
-| Topic | Notebook Link |
-|--------|----------------|
-| Dictionaries | [Dictionary.ipynb](Dictionary.ipynb) |
-| Lists | [List.ipynb](List.ipynb) |
-| Sets | [Set.ipynb](Set.ipynb) |
-| Strings | [String.ipynb](String.ipynb) |
-
----
-
 ## 📂 Folder Structure
 ```
 
