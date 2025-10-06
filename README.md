@@ -10,7 +10,6 @@ each designed to strengthen logic-building and problem-solving skills.
 ---
 
 ## 📂 Folder Structure
-```
 
 DSA-PRACTICE/
 │
